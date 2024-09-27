@@ -7,16 +7,6 @@
 - [Overview](#overview)
 - [Features](#features)
 - [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Directory Structure](#directory-structure)
-- [Functions Explained](#functions-explained)
-- [Customization](#customization)
-- [Logging and Error Handling](#logging-and-error-handling)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Overview
 
